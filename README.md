@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there. 👋
+
+Welcome to my GitHub. Check out some of my projects I have pinned.
+  
+Or check out my [website](https://smestad.xyz). 🔭 
+
+![Carl's github stats](https://github-readme-stats.vercel.app/api?username=carlofholy&count_private=true&show_icons=true&theme=tokyonight)
+
 
 <!--
 **CarlOfHoly/CarlOfHoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
