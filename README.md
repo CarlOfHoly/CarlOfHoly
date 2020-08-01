@@ -2,7 +2,7 @@
 
 Welcome to my GitHub. Check out some of my projects I have pinned.
   
-Or check out my [website](https://smestad.xyz). 🔭 
+Or check out my [website](https://smestad.xyz). 🔭 (NB: It's a work in progress)
 
 ![Carl's github stats](https://github-readme-stats.vercel.app/api?username=carlofholy&count_private=true&show_icons=true&theme=tokyonight)
 
